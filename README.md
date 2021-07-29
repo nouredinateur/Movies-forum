@@ -36,3 +36,5 @@ php artisan serve
 ```
 You can now access the server at http://localhost:8000
 
+
+edite the role of a user to 'admin' in the database to give it admine privilages
