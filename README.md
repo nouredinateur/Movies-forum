@@ -29,6 +29,12 @@ Run the database migrations (Set the database connection in .env before migratin
 ```bash
 php artisan migrate
 ```
+
+Create the symbolic link
+```bash
+php artisan storage:link
+```
+
 Start the local development server
 
 ```bash
